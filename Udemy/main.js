@@ -284,6 +284,7 @@
 
 
 
+
 //Interiagir avec le DOM
 
 
@@ -340,5 +341,6 @@
 // alert(calculerIMC(poids, taille));
 
 
+// console.log('top');
 
 
